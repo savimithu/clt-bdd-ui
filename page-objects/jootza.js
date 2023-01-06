@@ -4,7 +4,7 @@ const helpers = require("../runtime/helpers");
 /* eslint-disable no-undef */
 module.exports = {
 
-    url: 'http://www.jootza.com/login',
+    url: 'http://www.jootza.com/',
 
     elements: {
         Login: '//*[@id="bs-example-navbar-collapse-1"]/ul/li[2]/a',
