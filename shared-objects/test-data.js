@@ -1,4 +1,4 @@
 module.exports = {
-    username: "import-test-user",
-    password: "import-test-pa**word"
+    vemail: "import-test-user",
+    vpassword: "import-test-pa**word"
 };
